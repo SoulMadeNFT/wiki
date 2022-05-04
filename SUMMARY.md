@@ -1,10 +1,7 @@
 # Table of contents
 
-* [Welcome!](README.md)
-* [Quick Start](quick-start.md)
+* [😀 Hi there!!](README.md)
 
-## Reference
+## About SoulMade
 
-* [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)
+* [🙆 Team Intro](about-soulmade/team-intro.md)
