@@ -4,7 +4,7 @@
 
 ## About SoulMade
 
-* [🙆 Team Intro](about-soulmade/team-intro.md)
+* [👻 SoulMade Intro](about-soulmade/team-intro.md)
 
 ***
 
