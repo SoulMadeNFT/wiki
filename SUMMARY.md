@@ -11,3 +11,7 @@
 * [🧩 Sales Model Intro](page-1.md)
 * [🧑💻 Team Intro](team-intro.md)
 * [👑 Roadmap](roadmap.md)
+
+## 💡 技术列表
+
+* [Page 1](ji-shu-lie-biao/page-1.md)
