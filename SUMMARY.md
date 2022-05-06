@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎀 Hi there!!](README.md)
+* [🎀 Overview](README.md)
 
 ## About SoulMade
 
