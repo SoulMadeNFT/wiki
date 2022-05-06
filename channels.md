@@ -8,7 +8,7 @@
 
 **Discord:** SoulMade ****&#x20;
 
-****[https://discord.com/invite/caQ4mWWUj2](https://discord.com/invite/caQ4mWWUj2)
+****[https://discord.com/invite/xtqqXCKW9B](https://discord.com/invite/xtqqXCKW9B)
 
 
 
