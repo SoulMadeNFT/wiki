@@ -181,13 +181,21 @@ In order to deal with the possible risks of personal information leakage, damage
 
 Once a personal information security incident occurs, we will, in accordance with the requirements of laws and regulations, promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions that you can independently prevent and reduce risks, and Your remedies, etc. At the same time, we will promptly inform you of the relevant information of the incident by email, letter, telephone, push notification, etc. If it is difficult to inform the subject of personal information one by one, we will adopt a reasonable and effective way to issue an announcement. At the same time, we will also proactively report the handling of personal information security incidents in accordance with the requirements of the regulatory authorities.
 
-Storage of your personal information
+****
+
+**Storage of your personal information**
 
 We will execute in accordance with laws and regulations and the provisions of relevant regulatory authorities, and require the recipient to process this personal information in accordance with our instructions, this privacy policy and any other relevant confidentiality and security measures.
 
 Unless otherwise provided by laws and regulations, we will save your personal information for one month after the date of your account cancellation. We promise that this is to ensure your consumer rights in SoulMade, and your personal information must be kept in SoulMade for the shortest period of time. When your personal information exceeds the period of time we keep it, we will delete or anonymize your personal information.
 
 If we terminate the service or operation, we will notify you at least 30 days in advance, and delete or anonymize your personal information after terminating the service or operation.
+
+
+
+How do you manage your personal information&#x20;
+
+SoulMade attaches great importance to your attention to personal information, and will do its best to protect your rights to access, correct, delete and withdraw your consent to your personal information, so that you have sufficient ability to protect your privacy and safety. Your rights include:
 
 ****
 
