@@ -12,7 +12,7 @@ Professional artworks from SoulMade can be sold as complete drop sets, as well a
 
 Our users can buy any drop components they like and treat them like bricks to build different NFTs according to their own creations!
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 
 
