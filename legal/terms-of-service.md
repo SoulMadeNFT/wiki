@@ -62,13 +62,38 @@ If you find any unauthorized use of your account to log in to the SoulMade platf
 
 ****
 
-Platform Services and Specifications
+**Platform Services and Specifications**
 
-Service Browsing and Collection When you browse our website or client, the platform provides you with functions such as information classification, keyword search, screening, collection and attention to better match your needs.
+**Service Browsing and Collection**&#x20;
 
-Service Purchase and Evaluation When you purchase goods and/or services on the SoulMade platform, please be sure to carefully confirm the product name, price, quantity, content, restrictive requirements and other important matters of the purchased goods, and verify the information related to you when placing an order. If the consignee you fill in is not yourself, you shall bear the legal consequences of the consignee’s actions and intentions.
+When you browse our website or client, the platform provides you with functions such as information classification, keyword search, screening, collection and attention to better match your needs.
 
-****
+**Service Purchase and Evaluation**&#x20;
+
+When you purchase goods and/or services on the SoulMade platform, please be sure to carefully confirm the product name, price, quantity, content, restrictive requirements and other important matters of the purchased goods, and verify the information related to you when placing an order. If the consignee you fill in is not yourself, you shall bear the legal consequences of the consignee’s actions and intentions.
+
+**Dealing with Disputes**&#x20;
+
+If you have disputes with other users during the transaction on SoulMade platform, either you or the other users have the right to choose the following ways to resolve:&#x20;
+
+* Independently negotiate with the opposite party to the dispute;&#x20;
+* Use the dispute mediation service provided by the SoulMade platform;&#x20;
+* Request a consumer association or other legally established mediation organization for mediation;
+* Complain to the relevant administrative department;
+* Refer to an arbitration institution for arbitration in accordance with the arbitration agreement (if any) reached with the opposite party to the dispute;&#x20;
+* File a lawsuit in the people's court.
+
+**Handling Fee**&#x20;
+
+The cost of digital goods sold on SoulMade marketplace is as follows:&#x20;
+
+The creator will get 85% of the total sale price.&#x20;
+
+SoulMade marketplace charges 15% of the total sale price.
+
+
+
+&#x20;&#x20;
 
 
 
