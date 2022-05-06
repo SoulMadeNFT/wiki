@@ -1,4 +1,4 @@
-# Terms of Service
+# 📄 Terms of Service
 
 You are welcome to sign this "Terms of Service" (hereinafter referred to as the "Service") and use the platform services with the platform operator (see the definition terms for details)! (The index keywords listed in front of each service clause are only to help you understand the subject matter expressed in the clause, and do not affect or limit the meaning or interpretation of the terms of this agreement. In order to protect your own rights and interests, it is recommended that you carefully read the specific expressions of each clause. )
 

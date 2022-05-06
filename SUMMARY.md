@@ -18,4 +18,8 @@
 
 ## 📄 Legal
 
-* [Terms of Service](legal/terms-of-service.md)
+* [📄 Terms of Service](legal/terms-of-service.md)
+
+***
+
+* [📄 Privacy Policy](privacy-policy.md)
