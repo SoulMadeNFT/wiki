@@ -11,6 +11,7 @@
 * [🧩 Sales Model Intro](page-1.md)
 * [🧑💻 Team Intro](team-intro.md)
 * [👑 Roadmap](roadmap.md)
+* [🍿 Channels](channels.md)
 
 ## 💡 技术列表
 
