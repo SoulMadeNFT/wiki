@@ -15,3 +15,7 @@
 ## 💡 技术列表
 
 * [Page 1](ji-shu-lie-biao/page-1.md)
+
+## 📄 Legal
+
+* [Terms of Service](legal/terms-of-service.md)
