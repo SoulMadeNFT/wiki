@@ -193,9 +193,62 @@ If we terminate the service or operation, we will notify you at least 30 days in
 
 
 
-How do you manage your personal information&#x20;
+**How do you manage your personal information**&#x20;
 
 SoulMade attaches great importance to your attention to personal information, and will do its best to protect your rights to access, correct, delete and withdraw your consent to your personal information, so that you have sufficient ability to protect your privacy and safety. Your rights include:
+
+* Right of access. You can log in to SoulMade official website at any time to access or edit the personal information in your account. We will provide you with other personal information generated during your use of our products or services, provided that the technology is feasible.&#x20;
+* Right to correction. When you find that the personal information we process about you is wrong, after verifying your identity, and the correction does not affect the objectivity and accuracy of the information, you have the right to make corrections to the wrong or incomplete information Or update, you can make corrections yourself in SoulMade, or submit your correction application to us through feedback and error reporting.&#x20;
+* Right to delete. You can directly clear or delete information on our product and/or service pages. In the following situations, you can request us to delete personal information.
+
+If we decide to respond to your deletion request, we will follow up with your request and the requirements of relevant laws and regulations for subsequent deletion and give you feedback on the result. We will also notify the entities that have obtained your personal information from us and require them to delete them in a timely manner, unless laws and regulations provide otherwise, or these entities have obtained your independent authorization. After you delete information from our service, we may not delete the corresponding information from the backup system immediately, but we will delete the information when the backup is updated.
+
+* Right of revocation. Each business function requires some basic personal information to be completed. For the collection and use of collected personal information, you can give or withdraw your authorization and consent at any time. After you withdraw your consent or authorization, we will no longer be able to provide you with services corresponding to the withdrawal of your consent or authorization, and will no longer process your corresponding personal information. However, your decision to withdraw your consent or authorization will not affect the previous processing of personal information based on your consent or authorization.&#x20;
+* Right to cancel. You can cancel the previously registered account at any time by calling the customer service. Once you cancel your SoulMade account, you will not be able to use SoulMade services, so please exercise caution. Except as otherwise provided by laws and regulations, we will stop providing products and services to you after you cancel your account.
+
+
+
+**Protection of personal information of minors**
+
+SoulMade attaches great importance to the protection of personal information of minors. If you are a minor under the age of 18, you should obtain the consent of your parent or legal guardian before using our products and/or services. SoulMade protects the personal information of minors in accordance with relevant national laws and regulations.
+
+In the case of collecting personal information of minors with the consent of their parents or legal guardians, we will only use or publicly disclose this information when permitted by law, the parent or guardian's explicit consent, or necessary to protect the minors.
+
+If we find that we have collected the personal information of minors without the prior consent of a verifiable parent or legal guardian, we will try to delete the relevant data as soon as possible.
+
+
+
+**Notice and revision**&#x20;
+
+In order to provide you with better services and with the development of SoulMade business, this privacy policy will be updated accordingly. However, without your explicit consent, we will not reduce your rights under this privacy policy. We will issue an updated version on the SoulMade website and remind you of relevant content updates through a website announcement or other appropriate means before it becomes effective. Please also visit SoulMade to keep abreast of the latest privacy policy.&#x20;
+
+For major changes, we will also provide more noticeable notifications (we will explain the specific changes to the privacy policy through methods including but not limited to website announcements, text messages, or special reminders on the browsing page). The major changes referred to in this policy include but are not limited to:
+
+* Our service model has undergone major changes. Such as the purpose of processing personal information, the type of personal information processed, the way of using personal information, etc.;&#x20;
+* Significant changes have taken place in our ownership structure and organizational structure. Such as changes in owners caused by business adjustments, bankruptcy mergers, etc.;&#x20;
+* The main objects of personal information sharing, transfer or public disclosure have changed;&#x20;
+* Your right to participate in the processing of personal information and how to exercise it has undergone major changes;&#x20;
+* When the department responsible for handling personal information security, contact information and complaint channels change;&#x20;
+* When the personal information security impact assessment report shows that there is a high risk.
+
+
+
+**How to contact us**&#x20;
+
+If you have any questions, comments or suggestions about this privacy policy or your personal information related matters, please send an email to contact us.&#x20;
+
+Under normal circumstances, we will reply within 30 days. If you are not satisfied with our response, especially our personal information processing behavior that has harmed your legal rights, you can also file a complaint or report to the relevant department.&#x20;
+
+The basic situation of the operator:&#x20;
+
+* Company name: Meta Soul AB&#x20;
+* Contact email: hello@soulmade.art
+
+
+
+
+
+
 
 ****
 
