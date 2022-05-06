@@ -16,7 +16,7 @@
 
 * [Page 1](ji-shu-lie-biao/page-1.md)
 
-## 📄 Legal
+## 📖 Legal
 
 * [📄 Terms of Service](legal/terms-of-service.md)
 
