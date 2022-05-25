@@ -10,6 +10,6 @@ Guisong Fu: CTO, ex-Blockchain Lead, Senior Data/Cloud Architect.
 
 Ke Ma: Senior Full-Stack Developer
 
-Tianyi: Senior&#x20;
+Tianyi: Degen, Defi Lover, 3+ years in developing, founder of 7DayRefundNFT!
 
 Miya Zhong: Senior PR & Marketing manager, a bad ex-programmer, but experienced in B2B and B2C!
