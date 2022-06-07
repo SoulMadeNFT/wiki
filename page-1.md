@@ -1,10 +1,8 @@
-# 🧩 Sales Model Intro
+# Sales Model Intro
 
-SoulMade offers a new business model for digital artworks.&#x20;
+SoulMade offers a new business model for digital artworks.
 
 We have direct sales (drops) and mystery box marketing for professional artworks from our exclusive cooperated artists. And also provide a trading marketplace for re-creations explored by our creators.
-
-
 
 Drops
 
@@ -14,8 +12,6 @@ Our users can buy any drop components they like and treat them like bricks to bu
 
 ![](<.gitbook/assets/image (1) (1).png>)
 
-
-
 Mystery Box
 
 It’s a more interesting sale model for professional artworks. We have two types of mystery boxes: basic ones and membership-only ones.
@@ -24,10 +20,8 @@ It’s a more interesting sale model for professional artworks. We have two type
 
 Users of different grades will have the corresponding permissions to buy different series of mystery boxes. And each mystery box will come with a set of NFTs and for a chance to win rare NFTs, likewise, they can be disassembled and assembled into a unique creation.
 
+Marketplace
 
-
-Marketplace&#x20;
-
-A place that allows our artists, creators, and collectors to trade their artworks and re-creations freely.&#x20;
+A place that allows our artists, creators, and collectors to trade their artworks and re-creations freely.
 
 We hope everyone's ideas and creativity will be seen!

@@ -8,14 +8,14 @@
 
 ***
 
-* [🧩 Sales Model Intro](page-1.md)
+* [Sales Model Intro](page-1.md)
 * [🧑💻 Team Intro](team-intro.md)
 * [👑 Roadmap](roadmap.md)
 * [🍿 Channels](channels.md)
 
-## 💡 技术列表
+## 💡 Technical
 
-* [Page 1](ji-shu-lie-biao/page-1.md)
+* [Page 1](technical/page-1.md)
 
 ## 📖 Legal
 
